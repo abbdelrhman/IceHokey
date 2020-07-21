@@ -19,13 +19,7 @@ public class PlayersFinder implements IPlayersFinder {
     private int maxX, minX, maxY, minY, centreX, centreY;
 
 
-    public ArrayList<Integer> getArrX() {
-        return arrX;
-    }
 
-    public ArrayList<Integer> getArrY() {
-        return arrY;
-    }
 
 
     @Override
